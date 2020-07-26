@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\harshit singh\source\repos\section_02\bullcowgame\main.cpp(45): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+  BullCowGame.vcxproj -> C:\Users\HARSHIT SINGH\source\repos\Section_02\x64\Debug\BullCowGame.exe
