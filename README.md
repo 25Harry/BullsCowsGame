@@ -5,7 +5,7 @@
  1. You have a cryptex, which is basically a security apparatus in which you have to put up a secret password for it to open.<br>
  2. Inside that cryptex is a paper, which includes an address where a huge amount of money is dumped.<br>
  3. You are given 10 chances to guess the right password, and the address and the money will be yours.<br>
- 4. Otherwise the cryptex will destroy that address forever.<br>
+ 4. Otherwise, the cryptex will destroy that address forever.<br>
  
 <b>Rules:</b><br>
   1. You are given 10 chances to guess the right password.
