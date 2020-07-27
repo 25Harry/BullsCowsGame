@@ -19,7 +19,7 @@ For ASCII Art: https://manytools.org/hacker-tools/convert-images-to-ascii-art/<b
 
 <b>Mentors:</b><br>
   1. Ben Tristem: https://www.linkedin.com/in/bentristem/
-  2. Sam Pattuzzi: https://www.linkedin.com/in/sampattuzzi/<br>
+  2. Sam Pattuzzi: https://www.linkedin.com/in/sampattuzzi/<br><br><br>
 
-![BCG1](https://user-images.githubusercontent.com/38323906/88545246-591c6300-d038-11ea-8e1a-c410540036ee.PNG)<br>
+![BCG1](https://user-images.githubusercontent.com/38323906/88545246-591c6300-d038-11ea-8e1a-c410540036ee.PNG)
 ![BCG4](https://user-images.githubusercontent.com/38323906/88545257-5d488080-d038-11ea-9732-7f983158b61a.PNG)
