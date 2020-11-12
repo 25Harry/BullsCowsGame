@@ -1,3 +1,5 @@
+# Representation: https://www.linkedin.com/posts/harshit-singh-273646150_gamedev-c-coding-activity-6693495320065712128-QI_Q
+
 # BullsCowsGame
 <b>BULLs & COWs</b> is a money-chase, word puzzle game.<br><br>
 
